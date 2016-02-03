@@ -8,6 +8,6 @@
 #
 
 notifier 'test message' do
-  to 'eric.herot@evertrue.com'
-  message 'This is a test notification from Vagrant'
+  to 'devops@evertrue.com'
+  message 'This is a test notification from the notifier cookbook'
 end
